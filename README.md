@@ -13,7 +13,7 @@ $git clone HTTPS/SSH
 $git add .
 ```
 
-- 
+- Commit at the command line
 
 ```
 $git commit -m "commit"
@@ -24,3 +24,13 @@ $git commit -m "commit"
 ```
 $git push origin branch
 ```
+
+2. Create local project and push
+
+- Create a repository
+- Initialize git file
+
+```
+$git init 
+```
+
